@@ -1,0 +1,104 @@
+#logo{
+    margin-left: 30px;
+    margin-top:-5px;
+    display: inline-block;
+    
+}
+#navel{
+    display:flex;
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    text-decoration: none;
+    list-style-type:none;
+    justify-content: space-between;
+    padding-left: 20%;
+    padding-top: 15px;
+    padding-right:20%;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul li a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+nav ul li a:hover{
+    color:#8cbdb9;
+    transition: .4s;
+    text-decoration: none;
+}
+nav{
+    background-color: #E09E50;
+    background-position: 100% 100%;
+    height:89px;
+}
+#marouen{width:400px;
+height:400px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top:-50px;
+
+}
+#marouen:hover{
+    transform: scale(1.1);
+    transition: .6s;
+}
+div h2{
+    text-align: center;
+    margin-top:-60px;
+    text-transform:uppercase;
+    font-weight: bold;
+    color:white;
+    font-size: 35px;
+}
+.aboutme{
+    background-color: #8cbdb9;
+    height:600px;
+    
+}
+#line{
+    background-color:white;
+    width:260px;
+    height:4px;
+}
+div h4{
+    text-align: center;
+    margin-top:-5px;
+    text-transform:uppercase;
+    font-weight: bold;
+    color:rgb(255, 255, 255);
+    font-size: 22px;
+}
+.containermin{
+    
+    width: 100%;
+    height:400px;
+}
+.test{
+    background-color:rgb(255, 255, 255);
+    width:900px;
+    height:200px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top:50px;
+border:#ffffff 5px solid;
+border-radius: 2px;
+box-shadow: 3px 5px 5px 5px  #8cbdb9;
+}
+.card{
+    border:1px solid rgba(255, 255, 255) !important;
+}
+.skills{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    width:500px !important;
+    height:400px !important;
+}
